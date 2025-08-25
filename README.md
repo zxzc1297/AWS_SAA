@@ -24,3 +24,4 @@ GEMINI를 이용하여 시나리오 문제를 생성 각 문제의 시나리오�
 * **[45-48편: S3 암호화, SQS 디커플링, 스토리지 비용 최적화, HPC 네트워크](./problems/45-48.md)**
 * **[49-52편: 재해 복구(DR) 전략, 웹 보안, Lambda 비용 최적화, Route 53 라우팅](./problems/49-52.md)**
 * **[53-56편: EBS 볼륨 선택, IAM 역할, 데이터 전송 비용, Kinesis 스트리밍](./problems/53-56.md)**
+* **[57-60편: Secrets Manager, FSx for Lustre, VPC 3계층 라우팅, S3 검색 비용 최적화](./problems/57-60.md)**
